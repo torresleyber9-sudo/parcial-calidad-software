@@ -3,7 +3,7 @@ module.exports = {
   testEnvironment: "node",
   collectCoverage: true,
   coverageDirectory: "coverage",
-  coverageTreshold: {
+  coverageThreshold: {
     global: {
       branches: 80,
       functions: 80,
